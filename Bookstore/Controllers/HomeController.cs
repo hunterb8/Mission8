@@ -46,9 +46,5 @@ namespace Bookstore.Controllers
             return View(x);
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
     }
 }

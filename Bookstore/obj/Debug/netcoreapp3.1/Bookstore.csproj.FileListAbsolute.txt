@@ -79,3 +79,7 @@ C:\Users\hunterb8\source\repos\Bookstore\bin\Debug\netcoreapp3.1\runtimes\win-x6
 C:\Users\hunterb8\source\repos\Bookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\BookSummary.cshtml.g.cs
 C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\_DonateLayout.cshtml.g.cs
+C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
